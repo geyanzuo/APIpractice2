@@ -1,0 +1,14 @@
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\bin\Debug\netcoreapp2.1\APIpractice2.deps.json
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\bin\Debug\netcoreapp2.1\APIpractice2.runtimeconfig.json
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\bin\Debug\netcoreapp2.1\APIpractice2.runtimeconfig.dev.json
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\bin\Debug\netcoreapp2.1\APIpractice2.dll
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\obj\Debug\netcoreapp2.1\APIpractice2.csprojAssemblyReference.cache
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\obj\Debug\netcoreapp2.1\APIpractice2.csproj.CoreCompileInputs.cache
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\obj\Debug\netcoreapp2.1\APIpractice2.RazorAssemblyInfo.cache
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\obj\Debug\netcoreapp2.1\APIpractice2.RazorAssemblyInfo.cs
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\obj\Debug\netcoreapp2.1\APIpractice2.AssemblyInfoInputs.cache
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\obj\Debug\netcoreapp2.1\APIpractice2.AssemblyInfo.cs
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\obj\Debug\netcoreapp2.1\APIpractice2.RazorTargetAssemblyInfo.cache
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\bin\Debug\netcoreapp2.1\APIpractice2.pdb
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\obj\Debug\netcoreapp2.1\APIpractice2.dll
+C:\Users\102146016\Documents\GitHub\APIpractice2\APIpractice2\APIpractice2\obj\Debug\netcoreapp2.1\APIpractice2.pdb
